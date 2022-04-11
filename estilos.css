@@ -1,42 +1,42 @@
-*{
-margin: 0px;
-padding: 0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
 
-main{
+main {
     background-color: white;
 }
 
-header{
-    margin: 0 auto;
+header {
+    margin: 15px;
     padding: 20 px 0;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
-ul li{
+ul li {
     list-style: none;
     margin: 0 10px;
     display: inline-block;
 }
 
-ul li a{
+ul li a {
     text-decoration: none;
     font-size: 15px;
     color: #667085;
 }
 
-.botao2{
-    padding: 10px ;
+.botao2 {
+    padding: 10px;
     color: rgb(255, 255, 255);
     background: maroon;
-    border: 1px solid ;
-    border-radius: 5px;
+    border: 1px solid;
+    border-radius: 10px;
 }
 
-.botao1{
+.botao1 {
     color: black;
 }
 
@@ -44,5 +44,20 @@ ul li a{
     text-decoration: none;
 }
 
+.texto {
+    text-align: center;
+    margin: 50px;
+}
 
+p {
+    color: #8e2424;
+}
 
+h1 {
+    margin: 20px;
+}
+
+h3 {
+    margin: 10px;
+    color: #667085;
+}
