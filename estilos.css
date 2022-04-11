@@ -1,0 +1,48 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+main{
+    background-color: white;
+}
+
+header{
+    margin: 0 auto;
+    padding: 20 px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #667085;
+}
+
+.botao2{
+    padding: 10px ;
+    color: rgb(255, 255, 255);
+    background: maroon;
+    border: 1px solid ;
+    border-radius: 5px;
+}
+
+.botao1{
+    color: black;
+}
+
+.botao a {
+    text-decoration: none;
+}
+
+
+
