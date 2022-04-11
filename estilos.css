@@ -57,7 +57,64 @@ h1 {
     margin: 20px;
 }
 
-h3 {
+.texto h3 {
     margin: 10px;
     color: #667085;
+}
+
+.metricas-container{
+ display: flex;
+ justify-content: space-around ;
+}
+
+.metricas h1{
+    color: #8e2424;
+    width: 280px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.metricas2 h1{
+    color: #8e2424;
+    width: 280px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.metricas3 h1{
+    color: #8e2424;
+    width: 280px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.metricas4 h1{
+  color: #8e2424;
+  width: 280px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
 }
