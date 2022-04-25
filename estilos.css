@@ -63,12 +63,12 @@ h1 {
     color: #667085;
 }
 
-.metricas-container{
- display: flex;
- justify-content: space-around ;
+.metricas-container {
+    display: flex;
+    justify-content: space-around;
 }
 
-.metricas h1{
+.metricas h1 {
     color: #8e2424;
     width: 280px;
     height: 72px;
@@ -81,7 +81,7 @@ h1 {
     line-height: 72px;
 }
 
-.metricas2 h1{
+.metricas2 h1 {
     color: #8e2424;
     width: 280px;
     height: 72px;
@@ -94,7 +94,7 @@ h1 {
     line-height: 72px;
 }
 
-.metricas3 h1{
+.metricas3 h1 {
     color: #8e2424;
     width: 280px;
     height: 72px;
@@ -107,9 +107,9 @@ h1 {
     line-height: 72px;
 }
 
-.metricas4 h1{
-  color: #8e2424;
-  width: 280px;
+.metricas4 h1 {
+    color: #8e2424;
+    width: 280px;
     height: 72px;
     left: 0px;
     top: 0px;
@@ -120,7 +120,7 @@ h1 {
     line-height: 72px;
 }
 
-.subtitulo2{
+.subtitulo2 {
     color: #8e2424;
     display: flex;
     background: rgb(253, 180, 180);
@@ -134,20 +134,20 @@ h1 {
     text-align: center;
 }
 
-.titulo2{
+.titulo2 {
     display: flex;
     justify-content: space-around;
     font-size: 40px;
 }
 
-.paragrafo2{
+.paragrafo2 {
     display: flex;
     justify-content: space-around;
     color: #667085;
     font-size: 20px;
 }
 
-.imagem{
+.imagem {
     width: 1520px;
     height: 500px;
     display: block;
@@ -155,18 +155,78 @@ h1 {
     margin-left: auto;
 }
 
-.metricas h4{
+.metricas h4 {
     color: #667085;
 }
 
-.metricas2 h4{
+.metricas2 h4 {
     color: #667085;
 }
 
-.metricas3 h4{
+.metricas3 h4 {
     color: #667085;
 }
 
-.metricas4 h4{
+.metricas4 h4 {
     color: #667085;
+}
+
+.vaga {
+    margin: 0 auto;
+}
+
+.titulo {
+    position: static;
+    width: 768px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #101828;
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 32px 0px;
+}
+
+.profissao{
+    font-size: 20px;
+    width: 768px;
+    margin: 0 auto;
+}
+
+.vaga{
+    width: 768px;
+    margin: 50px auto;
+    border: 1px solid #eaecf0;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px 28px;
+    border-radius: 16px;
+}
+
+.titulo-vaga{
+    width: 720px;
+    height: 28px;
+    font-size: 18px;
+    align-self: stretch;
+    margin: 8px 8px 28px;
+    font-weight: 750;
+}
+
+.informacoes{
+    color: #667085;
+    font-size: 16px;
+    margin: 0 8px;
+    align-self: stretch;
 }
